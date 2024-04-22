@@ -1,28 +1,28 @@
 [
   {
     "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "organisation": "Accenture",
+    "startDate": "Dec, 2022",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": ["Developing Web Pages for clients", "Debugging and resolving"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
+    "role": "Associate Software Enginner",
+    "organisation": "Accenture",
+    "startDate": "Oct, 2021",
+    "endDate": "Dec, 2022",
     "experiences": ["Worked on Windows 11", "Designed the control panel"],
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
+    "role": "MLOps Intern",
+    "organisation": "Linux World Informatics",
+    "startDate": "Mar, 2020",
     "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Integrating ML with DevOps",
+      "automate the ML models with CI/CD end to end "
     ],
     "imageSrc": "history/netflix.png"
   }

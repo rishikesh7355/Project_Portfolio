@@ -1,20 +1,28 @@
+import styles from './ProjectCard.module.css';
+
 import { getImageUrl } from "../../utils"
 export const ProjectCard = ({item}) => {
     return (
-        <div>
-            <img src={getImageUrl(item.imageSrc)} alt={`Image of ${item.title}`} />
-            <h3>{item.title}</h3>
-            <p>{item.description}</p>
-            <ul>
+        <div className={styles.container}>
+            <img 
+                src={getImageUrl(item.imageSrc)} 
+                alt={`Image of ${item.title}`}
+                className={styles.image} 
+                />
+            <h3 className={styles.title}>{item.title}</h3>
+            <p className={styles.description}>{item.description}</p>
+            <ul className={styles.skills}>
                 {
                     item.skills.map((skill, id) => {
-                        <li key={id}>{skill}</li>
+                        return (
+                            <li key={id} className={styles.skill}>{skill}</li>
+                        )
                     })
                 }
             </ul>
-            <div>
-                <a href={item.demo}>Demo</a>
-                <a href={item.source}>Source</a>
+            <div className={styles.links}>
+                <a href={item.demo} className={styles.link}>Demo</a>
+                <a href={item.source} className={styles.link}>Source</a>
             </div>
         </div>
     )
