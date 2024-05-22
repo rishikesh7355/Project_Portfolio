@@ -1,19 +1,19 @@
 [
   {
-    "role": "Software Engineer",
+    "role": "Packaged App Development Analyst",
     "organisation": "Accenture",
     "startDate": "Dec, 2022",
     "endDate": "Present",
-    "experiences": ["Developing Web Pages for clients", "Debugging and resolving"],
-    "imageSrc": "history/google.png"
+    "experiences": ["Design, develop and code web applications for customer accounts which includes debugging issues, diagnosing root causes unit testing and identifying solutions ","Attending scrum calls", "Supporting Releases", "Self paced training in AWS, Java + Spring Boot"],
+    "imageSrc": "history/acc.png"
   },
   {
-    "role": "Associate Software Enginner",
+    "role": "Application Development Associate",
     "organisation": "Accenture",
     "startDate": "Oct, 2021",
     "endDate": "Dec, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "experiences": ["Trainings in MEAN and  MERN stack", "Started working in Agile project", "Attending scrum calls", "Promoted"],
+    "imageSrc": "history/acc.png"
   },
   {
     "role": "MLOps Intern",
@@ -21,9 +21,10 @@
     "startDate": "Mar, 2020",
     "endDate": "Jun, 2020",
     "experiences": [
+      "Trainings in Python, RHEL8 Linux, Docker, Jenkins, etc.",
       "Integrating ML with DevOps",
-      "automate the ML models with CI/CD end to end "
+      "Automating the ML model with CI/CD end to end from training to deployment"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/linuxWorld.png"
   }
 ]

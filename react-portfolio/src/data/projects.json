@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Personal Portfolio",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "E-Portfolio",
+    "skills": ["Vite", "React", "HTML", "CSS", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/rishikesh7355/Project_Portfolio"
   },
   {
-    "title": "Project B",
+    "title": "TextUtils Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Website having text utilities like converting text into uppercase, copy, paste with dark mode options",
+    "skills": ["React", "HTML", "CSS", "Node"],
+    "demo": "https://onlinetextanalyzer.netlify.app/",
+    "source": "https://github.com/rishikesh7355/TextUtils"
   },
   {
-    "title": "Project C",
+    "title": "YouTube UI Clone",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Cloned YouTube lauching page",
+    "skills": ["React", "HTML", "CSS", "Node"],
+    "demo": "https://drive.google.com/file/d/16F6XZIqPuRoH4tCJAtrkR_zqNB4e6FRA/view?usp=sharing",
+    "source": "https://github.com/rishikesh7355/YouTube_Clone"
   }
 ]

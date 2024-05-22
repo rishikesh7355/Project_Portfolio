@@ -26,5 +26,13 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Eclipse",
+    "imageSrc": "skills/eclipse.png"
+  },
+  {
+    "title": "SoapUI",
+    "imageSrc": "skills/soap.png"
   }
 ]

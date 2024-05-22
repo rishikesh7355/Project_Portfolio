@@ -15,9 +15,9 @@ export const About = () => {
                         <img src={getImageUrl("about/uiIcon.png")} alt="Ui icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Frontend Developer</h3>
-                            <p>I'm a Frontend Developer with 2.5 years
+                            <p>Frontend Developer with 3 years
                                 experience in building responsive sites, optimization,
-                                and debugging using ReactJS, HTML5, CSS3, Bootstrap, TypeScript
+                                and debugging using ReactJS, HTML5, CSS3, Bootstrap, TypeScript ;
                             </p>
                         </div>
                     </li>
@@ -25,9 +25,8 @@ export const About = () => {
                         <img src={getImageUrl("about/cursorIcon.png")} alt="server icon" />
                         <div className={styles.aboutItemText}>
                             <h3>FullStack Developer</h3>
-                            <p>I have also knowledge of MERN stack and practiced 
-                                experience in building responsive sites, optimization,
-                                and debugging using MongoDB, ExpressJS, ReactJS and NodeJS
+                            <p>I also have knowledge of MERN and MEAN stack. Practiced 
+                                building beginner level projects using MongoDB, ExpressJS, ReactJS and NodeJS
                             </p>
                         </div>
                     </li>
@@ -35,7 +34,7 @@ export const About = () => {
                         <img src={getImageUrl("about/serverIcon.png")} alt="server icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Backend Developemt</h3>
-                            <p>Beginner in Java + spring Boot  and 
+                            <p>Beginner in Java + Spring Boot  and 
                                 worked on beginner level tasks.Familiar with Eclipse, SoapUI, etc. 
                             </p>
                         </div>
