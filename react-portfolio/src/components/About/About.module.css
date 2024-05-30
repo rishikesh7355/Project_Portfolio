@@ -58,6 +58,12 @@
     font-size: 25px;
 }
 
+.aboutItem a {
+    text-decoration: none;
+    color: lightblue;
+
+}
+
 @media screen and (max-width: 830px) {
     .container {
         background-color: transparent;
