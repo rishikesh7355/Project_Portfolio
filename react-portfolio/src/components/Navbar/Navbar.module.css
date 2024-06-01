@@ -25,6 +25,9 @@
     gap: 47px;
     list-style: none;
 }
+.menuItems a:hover {
+    background-color: var(--color-primary);
+}
 
 .menuItems a{
     font-size: 25px;
