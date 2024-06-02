@@ -4,7 +4,7 @@
     "imageSrc": "projects/project.png",
     "description": "E-Portfolio",
     "skills": ["Vite", "React", "HTML", "CSS", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://rishikesh-e-portfolio.netlify.app/",
     "source": "https://github.com/rishikesh7355/Project_Portfolio"
   },
   {
