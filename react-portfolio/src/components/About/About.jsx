@@ -43,7 +43,7 @@ export const About = () => {
                         <img src={getImageUrl("about/bulbIcon.png")} alt="server icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Problem Solving </h3>
-                            <p>Good in Data Structures and Algorithms.Actively practicing problems on <a href="https://auth.geeksforgeeks.org/user/rishiyadav280198/practice" target="_blank">GeekForGeeks</a>, <a href="https://leetcode.com/u/rishikesh28/" target="_blank">Leetcode</a> and <a href="https://www.hackerrank.com/profile/rishiyadav280198" target="_blank">HackerRank</a>. Participating in weekly contests.
+                            <p>Good in Data Structures and Algorithms.Actively practicing problems on <a href="https://auth.geeksforgeeks.org/user/rishiyadav280198/practice" target="_blank">GeeksForGeeks</a>, <a href="https://leetcode.com/u/rishikesh28/" target="_blank">Leetcode</a> and <a href="https://www.hackerrank.com/profile/rishiyadav280198" target="_blank">HackerRank</a>. Participating in weekly contests.
                             </p>
                         </div>
                     </li>
